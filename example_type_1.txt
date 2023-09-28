@@ -1,0 +1,1 @@
+Put a novel or not here and the script will use it to type to the other file "example_faux_typing_file.txt". You can put something related to your job if they are monitoring keystrokes and what not. These do not have to be text files you can create blank word docx and the script will open word and should start typing.
